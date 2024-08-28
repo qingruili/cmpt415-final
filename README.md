@@ -2,13 +2,13 @@
 
 A personalized gamification platform for introductory Python. [Setup instructions.](https://github.com/danilolekovic/cmpt415-project/blob/main/docs/setup.md)
 
-### sign in pages
+### Sign in pages
 
-### home pages
+### Home pages
 
-### multiple choice pages
+### Multiple choice pages
 
-### coding practice pages
+### Coding practice pages
 ![Picture1](https://github.com/user-attachments/assets/129ecac0-fb93-4e50-be8a-faabd51a3b04)
 
 ![Picture2](https://github.com/user-attachments/assets/e12707c6-5f5f-4a65-90e8-487b46dc98c1)
@@ -17,4 +17,4 @@ A personalized gamification platform for introductory Python. [Setup instruction
 
 <img width="419" alt="Picture4" src="https://github.com/user-attachments/assets/e6723d1a-b683-4530-973f-2684935baf56">
 
-### score and reward pages
+### Score and reward pages
